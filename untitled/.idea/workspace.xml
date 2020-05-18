@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c3e07f2-91e1-4223-af81-fe3e84862924" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="untitled" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YAGhnz3ZXXKkUk6v60clgP8Hx9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Pulpit/dokumenty/szkoła/POJ/pjatk_car_factory" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c3e07f2-91e1-4223-af81-fe3e84862924" name="Default Changelist" comment="" />
+      <created>1582378107209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582378107209</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="428" y="124" width="848" height="677" key="#Project_Structure" timestamp="1582378221539">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="428" y="124" width="848" height="677" key="#Project_Structure/67.27.1533.873@67.27.1533.873" timestamp="1582378221539" />
+    <state x="535" y="267" width="586" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585396114773">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="535" y="267" width="586" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1533.873@67.27.1533.873" timestamp="1585396114773" />
+    <state x="488" y="247" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1586005860349">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="488" y="247" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/67.27.1533.873@67.27.1533.873" timestamp="1586005860349" />
+    <state x="590" y="27" width="476" height="873" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586007565537">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="590" y="27" width="476" height="873" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/67.27.1533.873@67.27.1533.873" timestamp="1586007565537" />
+    <state x="616" y="220" width="424" height="484" key="FileChooserDialogImpl" timestamp="1586008858254">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="616" y="220" width="424" height="484" key="FileChooserDialogImpl/67.27.1533.873@67.27.1533.873" timestamp="1586008858254" />
+    <state x="316" y="40" width="1024" height="845" key="SettingsEditor" timestamp="1585596976202">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="316" y="40" width="1024" height="845" key="SettingsEditor/67.27.1533.873@67.27.1533.873" timestamp="1585596976202" />
+    <state x="489" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1582381561631">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="489" y="291" key="com.intellij.ide.util.TipDialog/67.27.1533.873@67.27.1533.873" timestamp="1582381561631" />
+    <state x="560" y="152" width="536" height="620" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582384989384">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="560" y="152" width="536" height="620" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1533.873@67.27.1533.873" timestamp="1582384989384" />
+    <state x="142" y="63" width="1372" height="798" key="new project wizard" timestamp="1586002023988">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="142" y="63" width="1372" height="798" key="new project wizard/67.27.1533.873@67.27.1533.873" timestamp="1586002023988" />
+    <state x="497" y="208" key="run.anything.popup" timestamp="1582383058027">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="497" y="208" key="run.anything.popup/67.27.1533.873@67.27.1533.873" timestamp="1582383058027" />
+    <state x="496" y="212" width="672" height="678" key="search.everywhere.popup" timestamp="1586008038439">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="496" y="212" width="672" height="678" key="search.everywhere.popup/67.27.1533.873@67.27.1533.873" timestamp="1586008038439" />
+  </component>
+</project>
