@@ -1,21 +1,29 @@
 package Service;
 
+import Model.Baguette;
 import Model.Breadstuff;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
-public class DeliveryService {
+public class DeliveryService implements Delivery {
 
     private List<Breadstuff> breadstuffList;
 
     public DeliveryService() {
+
         this.breadstuffList = new ArrayList<>();
     }
 
     public void addBreadstuff(Breadstuff breadstuff) {
 
+        this.breadstuffList.add(breadstuff);
+    }
+
+    public void addBreadstuff(int id, String name, int size) {
+
+        Breadstuff breadstuff = new Baguette(id,name,size);
         this.breadstuffList.add(breadstuff);
     }
 
@@ -26,7 +34,7 @@ public class DeliveryService {
         }
     }
 
-    public Optional<Breadstuff> findById (int id) {
+    private Optional<Breadstuff> findById (int id) {
         return breadstuffList.stream().filter(breadstuff -> breadstuff.getId() == id).findFirst(); //
     }
 

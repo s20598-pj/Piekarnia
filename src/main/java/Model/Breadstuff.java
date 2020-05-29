@@ -1,17 +1,19 @@
 package Model;
 
-public class Breadstuff {
+public abstract class Breadstuff {
 
     private int id;
     private String name;
-    private int size;
+    private int price;
 
 
-    public Breadstuff(int id, String name, int size) {
+    public Breadstuff(int id, String name, int price) {
         this.id = id;
         this.name = name;
-        this.size = size;
+        this.price = price;
     }
+
+    public abstract void crunchy();
 
     public int getId() {
         return id;
@@ -29,12 +31,12 @@ public class Breadstuff {
         this.name = name;
     }
 
-    public int getSize() {
-        return size;
+    public int getPrice() {
+        return price;
     }
 
-    public void setSize(int size) {
-        this.size = size;
+    public void setPrice(int price) {
+        this.price = price;
     }
 
     @Override
